@@ -20,3 +20,4 @@
 -   Papa
 -   mama
 -   GOKU
+-   BULMA
