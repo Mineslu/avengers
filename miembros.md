@@ -21,3 +21,4 @@
 -   mama
 -   GOKU
 -   BULMA
+- crillin
